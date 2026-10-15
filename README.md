@@ -9,13 +9,8 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Anurag%20Nandi&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-stack%20Developer%20·%20Founder%20of%20Big%20Bear%20Software&descSize=16&descColor=e8b04b&descAlignY=55&animation=fadeIn" width="100%" />
 
-<!-- Animated typing SVG -->
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.dit dotcom/animation?lines=I%20build%20software%20that%20disappears;Founder%20of%20Big%20Bear%20Software;Creator%20of%20DocPilot%20%F0%9F%92%8A;Builder%20of%20Bearly%20Ledger%20%F0%9F%93%8B;Shipped%2020%2B%20projects;Currently%20learning%20robotics%20%F0%9F%90%B6;Type=React%2C%20Node%2C%20MongoDB%2C%20GraphQL&font=Space%20Grotesk&weight=600&color=E8B04B&center=true&vCenter=true&width=600&height=45&duration=2500">
-</picture>
-
 <!-- Typing SVG (primary) -->
-<a href="https://anuragnandi.com"><img src="https://readme-typing-svg.demolab.com?lines=I+build+software+that+disappears;Founder+of+Big+Bear+Software;Creator+of+DocPilot+%F0%9F%92%8A;Builder+of+Bearly+Ledger+%F0%9F%93%8B;Shipped+20%2B+projects;Currently+learning+robotics+%F0%9F%90%B6;Type=React+%E2%80%A2+Node+%E2%80%A2+MongoDB+%E2%80%A2+GraphQL&font=Space+Grotesk&weight=600&color=E8B04BC0&center=true&vCenter=true&width=600&height=45&duration=2500&pause=1000&repeat=false" alt="Typing SVG" width="600" /></a>
+<a href="https://anuragnandi.com"><img src="https://readme-typing-svg.demolab.com?lines=I+build+software+that+disappears;Founder+of+Big+Bear+Software;Creator+of+DocPilot+%F0%9F%92%8A;Shipped+20%2B+projects;Currently+learning+robotics+%F0%9F%90%B6;Type=React+%E2%80%A2+Node+%E2%80%A2+MongoDB+%E2%80%A2+GraphQL&font=Space+Grotesk&weight=600&color=E8B04BC0&center=true&vCenter=true&width=600&height=45&duration=2500&pause=1000&repeat=false" alt="Typing SVG" width="600" /></a>
 </div>
 
 <!-- ─────────────── ANIMATED DIVIDER ─────────────── -->
@@ -80,19 +75,19 @@
 </td>
 <td width="50%" align="center" valign="top">
 <img src="https://img.shields.io/badge/🐻_Big_Bear_Software-Product_Studio-e8b04b?style=for-the-badge&labelColor=0D1117" alt="Big Bear Software"/><br/><br/>
-<b>My product studio.</b> Software with the strength and endurance of a bear. Home of DocPilot, Bearly Ledger, and IT consulting for growing businesses.<br/><br/>
+<b>My product studio.</b> Software with the strength and endurance of a bear. Home of DocPilot, BuildCore AI, Gizee, and IT consulting for growing businesses.<br/><br/>
 <a href="https://bigbearsoftware.com">🌐 bigbearsoftware.com</a>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
-<img src="https://img.shields.io/badge/📋_Bearly_Ledger-AI_Payroll_Agent-e8b04b?style=for-the-badge&labelColor=0D1117" alt="Bearly Ledger"/><br/><br/>
-<b>Payroll that talks back.</b> An AI agent lives inside the ledger — message it on Telegram in plain English, it queries the database, runs reports, flags discrepancies. No dashboards.<br/><br/>
-<a href="https://ledger.bigbearsoftware.com">🌐 ledger.bigbearsoftware.com</a>
+<img src="https://img.shields.io/badge/🧪_anuragnandi.com-Interactive_Portfolio-e8b04b?style=for-the-badge&labelColor=0D1117" alt="anuragnandi.com"/><br/><br/>
+<b>My own playground.</b> The Lab, the Failure Museum, a travel journal, and a resume built as a shuffled shelf. Built and shipped with AI agents in the loop.<br/><br/>
+<a href="https://anuragnandi.com">🌐 anuragnandi.com</a>
 </td>
 <td width="50%" align="center" valign="top">
 <img src="https://img.shields.io/badge/🤖_Hermes_Agent-Persistent_AI_Agent-e8b04b?style=for-the-badge&labelColor=0D1117" alt="Hermes Agent"/><br/><br/>
-<b>A persistent AI agent.</b> Lives across Telegram, Discord, and Mac. Manages cron jobs, health tracking, daily briefings, browser automation, and code deployment — all from chat.
+<b>A persistent AI agent.</b> Lives across Telegram, Discord, and Mac. Manages cron jobs, health tracking, daily briefings, browser automation, and code deployment, all from chat.
 </td>
 </tr>
 </table>
@@ -177,7 +172,7 @@
 </tr>
 <tr>
 <td>⚖️ Valerian</td>
-<td>Immersive 3D landing page for a law firm</td>
+<td>Immersive 3D landing page for a UK law-firm consultancy</td>
 <td>Three.js · React</td>
 </tr>
 <tr>
@@ -192,12 +187,12 @@
 </tr>
 <tr>
 <td>🧪 The Lab</td>
-<td>Interactive nav system + mini games on my portfolio</td>
+<td>Interactive nav, mini games, and the Failure Museum on my portfolio</td>
 <td>React Router · Canvas</td>
 </tr>
 <tr>
 <td>🐶 PuppyPi</td>
-<td>Robot dog — learning AI vision & robotics</td>
+<td>Robot dog, learning AI vision & robotics</td>
 <td>Python · Raspberry Pi</td>
 </tr>
 </table>
@@ -265,7 +260,7 @@ Nobody wants prescription software. Doctors want to leave on time and feel in co
 
 ### 📍 Let's Connect
 
-**Hyderabad, India** — building, shipping, and occasionally sleeping.
+**Hyderabad, India.** Building, shipping, and occasionally sleeping.
 
 <br/>
 
@@ -278,7 +273,7 @@ Nobody wants prescription software. Doctors want to leave on time and feel in co
 <br/>
 
 <div align="center">
-<i>Most of my work lives in private repos — client projects, products, and experiments that aren't open source. The best stuff is on <a href="https://anuragnandi.com">my portfolio</a>.</i>
+<i>Most of my work lives in private repos: client projects, products, and experiments that aren't open source. The best stuff is on <a href="https://anuragnandi.com">my portfolio</a>.</i>
 </div>
 
 <!-- ─────────────── VISITOR BADGE ─────────────── -->
